@@ -30,7 +30,7 @@
 可視化（主にグラフ描画）に関する事項を扱います。
 
 ## Model
-[Model](https://k-metrics.github.io/model/)分析手法や例題・演習問題の回答例に関する事項を扱います。
+[Model](https://k-metrics.github.io/model/)は分析手法や例題・演習問題の回答例に関する事項を扱います。
 
 ## Infer
 Modelへ集約します。
