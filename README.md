@@ -38,9 +38,16 @@ Modelへ集約します。
 ## Communicate
 分析結果の文書化（主にR Markdown）に関する事項を扱う分類項目です。
 
+* [R Markdownのすゝめ](./communicate/rmarkdown.html)
+
 ## Automate
 当面、本分類の対象となる資料はありません。
 
+# Archive
+過去の勉強会の講義資料置き場です。
+
+# Links
+統計分析やソフトウェアメトリクスに関わる情報へのリンク集です。
 
 [1]: https://sites.google.com/site/kantometrics/ "（ソフトウェア品質技術者のための）データ分析勉強会"
 [2]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja "CC BY-NC-SA 4.0"
