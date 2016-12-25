@@ -36,9 +36,7 @@
 Modelへ集約します。
 
 ## Communicate
-分析結果の文書化（主にR Markdown）に関する事項を扱う分類項目です。
-
-* [R Markdownのすゝめ](./communicate/rmarkdown.html)
+[Communicate](./communicate)は分析結果の文書化（主にR Markdown）に関する事項を扱う分類項目です。
 
 ## Automate
 当面、本分類の対象となる資料はありません。
